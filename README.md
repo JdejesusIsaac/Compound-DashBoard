@@ -18,7 +18,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-sidenote: apy.js needs infura mainet key. line 6
+# SideNote: apy.js needs infura mainet key. line 6
 
 First, run the development server:
 
