@@ -1,7 +1,7 @@
 
 # Compound-DashBoard
 
-App Shows list of Interest rates for diffrent markets of compound.
+App Shows list of Interest rates for diffrent underlying assets on compound.
 
 # Stack
 
